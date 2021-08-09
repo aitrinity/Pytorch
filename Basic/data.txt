@@ -1,0 +1,1 @@
+For this we use the nltk module. NLTK (Natural Language Toolkit) is a leading platform for building Python programs to work with human language data. It provides a lot of helpful methods that we can use.
